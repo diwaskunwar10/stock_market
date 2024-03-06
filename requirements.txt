@@ -1,0 +1,4 @@
+pandas
+plotly 
+bs4
+requests
